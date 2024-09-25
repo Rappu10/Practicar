@@ -1,1 +1,0 @@
-# Funciones-Matematicas-1
